@@ -124,39 +124,27 @@ The following models were trained and evaluated:
 
 
 
-\### \*\*1. Annual Income Distribution\*\*
+\### Income Distribution
 
-!\[Income Distribution](Visuals/Annual\_income\_Distribution.png)
-
-
-
----
+!\[Income Distribution](https://raw.githubusercontent.com/PayalKolhe1096/census-income-ml-project/main/Visuals/Annual\_income\_Distribution.png)
 
 
 
-\### \*\*2. Correlation Heatmap\*\*
+\### Correlation Heatmap
 
-!\[Correlation Heatmap](Visuals/Correlation.png)
-
-
-
----
+!\[Correlation Heatmap](https://raw.githubusercontent.com/PayalKolhe1096/census-income-ml-project/main/Visuals/Correlation.png)
 
 
 
-\### \*\*3. Confusion Matrix (Random Forest)\*\*
+\### Confusion Matrix - Random Forest
 
-!\[Confusion Matrix](Visuals/Confusion\_Matrix\_RF.png)
-
-
-
----
+!\[Confusion Matrix](https://raw.githubusercontent.com/PayalKolhe1096/census-income-ml-project/main/Visuals/Confusion\_Matrix\_RF.png)
 
 
 
-\### \*\*4. Top 10 Feature Importance\*\*
+\### Top 10 Feature Importance
 
-!\[Feature Importance](Visuals/Top\_10\_Features.png)
+!\[Top Features](https://raw.githubusercontent.com/PayalKolhe1096/census-income-ml-project/main/Visuals/Top\_10\_Features.png)
 
 
 
