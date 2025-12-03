@@ -26,13 +26,13 @@ This project explores data preprocessing, feature engineering, model selection, 
 
 \## 📂 Dataset
 
-\- \*\*Source:\*\* UCI Adult Census Income Dataset  
-
-\- \*\*Target Variable:\*\* `income` (<=50K or >50K)
 
 
+\- A ZIP file of the dataset is included in the `data/` folder: `data/census\_income.zip`
 
----
+\- Unzip or read directly in Python using Pandas.
+
+\- Full dataset source: \[UCI Adult Census Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult)
 
 
 
