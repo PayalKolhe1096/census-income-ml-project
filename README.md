@@ -126,7 +126,7 @@ The following models were trained and evaluated:
 
 \### \*\*1. Annual Income Distribution\*\*
 
-!\[Income Distribution](images/Annual\_income\_Distribution.png)
+!\[Income Distribution](Visuals/Annual\_income\_Distribution.png)
 
 
 
@@ -136,7 +136,7 @@ The following models were trained and evaluated:
 
 \### \*\*2. Correlation Heatmap\*\*
 
-!\[Correlation Heatmap](images/Correlation.png)
+!\[Correlation Heatmap](Visuals/Correlation.png)
 
 
 
@@ -146,7 +146,7 @@ The following models were trained and evaluated:
 
 \### \*\*3. Confusion Matrix (Random Forest)\*\*
 
-!\[Confusion Matrix](images/Confusion\_Matrix\_RF.png)
+!\[Confusion Matrix](Visuals/Confusion\_Matrix\_RF.png)
 
 
 
@@ -156,7 +156,7 @@ The following models were trained and evaluated:
 
 \### \*\*4. Top 10 Feature Importance\*\*
 
-!\[Feature Importance](images/Top\_10\_Features.png)
+!\[Feature Importance](Visuals/Top\_10\_Features.png)
 
 
 
