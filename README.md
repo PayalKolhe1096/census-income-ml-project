@@ -123,7 +123,6 @@ The following models were trained and evaluated:
 \## 📈 Visualizations
 
 
-
 \### Income Distribution
 
 !\[Income Distribution](https://raw.githubusercontent.com/PayalKolhe1096/census-income-ml-project/main/Visuals/Annual\_income\_Distribution.png)
